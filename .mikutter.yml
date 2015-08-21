@@ -1,0 +1,9 @@
+---
+slug: :test_plugin
+depends:
+  mikutter: 3.2.5
+  plugin: []
+version: '1.0'
+author: 
+name: test_plugin
+description: "みっくみく"
